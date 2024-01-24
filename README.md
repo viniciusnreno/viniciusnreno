@@ -8,7 +8,6 @@
 Tenho experiencia em, TypeScript, ReactJS, NextJS, TailwindCss e NodeJSe em projetos gerenciados por Metodologias Ágeis. Além de estar expecializando em integrações/deploys nas principais Clouds (AWS, Google Cloud ou Azure). Tudo isso para oferecer soluções modernas e de última geração aos meus clientes.</p>
 
 <h2>Skills</h2>
-<br />
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,strapi,react,nextjs,tailwindcss,git,figma,html,css" />
